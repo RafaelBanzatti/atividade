@@ -1,5 +1,5 @@
 name: imagens-baixo
-run-name: ${{ github.actor }} Pipeline deploy 😒😒
+run-name: ${{ github.actor }} Pipeline deploy nova
 on:
   push:
     branches:
